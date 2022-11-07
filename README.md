@@ -58,5 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amran-zak" />
 https://github-readme-streak-stats.herokuapp.com/?user=amran-zak
 My personal repostory
