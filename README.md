@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://uploads.toptal.io/blog/image/92510/toptal-blog-image-1463492564587-353a3c288892f1e43929cee358dbc24f.gif" width="100"/>
+  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFpmO6SNaRmcw/profile-displayphoto-shrink_400_400/0/1660671478180?e=1673481600&v=beta&t=5ITlj0cNAytYaZ85Cwotio4Q-D4w4E3Fmx28EkenNHo" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/amran-abdourazak-abdillahi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
