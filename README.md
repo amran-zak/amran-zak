@@ -20,6 +20,7 @@
 </div>
 
 <div align="center">
+  <iframe src="https://giphy.com/embed/cst5AXzPxRLyIwMNsV" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV">via GIPHY</a></p>
   <img src="https://giphy.com/gifs/KeepCoding-woman-in-tech-dev-developer-cst5AXzPxRLyIwMNsV" width="600" height="300"/>
 </div>
 
