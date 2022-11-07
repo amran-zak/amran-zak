@@ -16,7 +16,7 @@
 </h1>
 
   
-</div>
+
 
 ---
 
@@ -29,9 +29,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-
 ---
+### :fire: My Stats :
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amran-zak" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran-zak" />
+  
+---
+ 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -54,14 +60,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amran-zak" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran-zak" />
 
 ---
 
 ### :writing_hand: Blog Posts :
 
+  </div>
 
