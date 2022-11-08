@@ -43,6 +43,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amran-zak&theme=github" /></p>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=amran-zak&bc=ebebeb&ic=0E8AD9" alt="amran-zak" /></p>
 
+<p>vv</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=PetDog-Complete-Website" alt="amran-zak" /></p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=PetDog-Complete-Website)](https://github.com/amran-zak/PetDog-Complete-Website)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=eFresh-Groceries-Website)](https://github.com/amran-zak/eFresh-Groceries-Website)
