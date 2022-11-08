@@ -43,35 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amran-zak&theme=github" /></p>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=amran-zak&bc=ebebeb&ic=0E8AD9" alt="amran-zak" /></p>
 
-<p>vv</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=PetDog-Complete-Website" alt="amran-zak" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=PetDog-Complete-Website)](https://github.com/amran-zak/PetDog-Complete-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=eFresh-Groceries-Website)](https://github.com/amran-zak/eFresh-Groceries-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=Quiz-Application)](https://github.com/amran-zak/Quiz-Application)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=Calculator)](https://github.com/amran-zak/Calculator)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=My-Site)](https://github.com/amran-zak/My-Site)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=calculator-light-dark-mode)](https://github.com/amran-zak/calculator-light-dark-mode)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=Portfolio)](https://github.com/amran-zak/Portfolio)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=eShop-Website)](https://github.com/amran-zak/eShop-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=Interior-Design-Website)](https://github.com/amran-zak/Interior-Design-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=Food-Website)](https://github.com/amran-zak/Food-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=DentalClinic-Website)](https://github.com/amran-zak/DentalClinic-Website)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=UI-Assignment)](https://github.com/amran-zak/UI-Assignment)
-<br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amran-zak&repo=amran-zak)](https://github.com/amran-zak/amran-zak)
- 
 ---
  
 
