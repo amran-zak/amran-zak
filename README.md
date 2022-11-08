@@ -36,6 +36,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran-zak" />
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amran-zaks&show_icons=true&locale=en" alt="valentinefernandes" /></p>
   
 ---
  
