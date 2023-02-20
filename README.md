@@ -1,7 +1,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/amran_zak?style=social)](https://twitter.com/intent/follow?screen_name=amran-zak)
 
 <div id="header" align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFpmO6SNaRmcw/profile-displayphoto-shrink_400_400/0/1660671478180?e=1673481600&v=beta&t=5ITlj0cNAytYaZ85Cwotio4Q-D4w4E3Fmx28EkenNHo" width="100"/>
+  <img src="https://media.licdn.com/dms/image/C4E03AQFpmO6SNaRmcw/profile-displayphoto-shrink_200_200/0/1660671478180?e=1682553600&v=beta&t=gdL466mnasTq42FQs8BdmtxQHIK7aLqlxE4QrolMlH4" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/amran-abdourazak-abdillahi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
