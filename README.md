@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/amran_zak?style=social)](https://twitter.com/intent/follow?screen_name=amran-zak)
+[![Twitter](https://img.shields.io/twitter/follow/amran_zak?style=social)](https://twitter.com/intent/follow?screen_name=amran_zak)
 
 <div id="header" align="center">
   <img src="https://media.licdn.com/dms/image/C4E03AQFpmO6SNaRmcw/profile-displayphoto-shrink_200_200/0/1660671478180?e=1682553600&v=beta&t=gdL466mnasTq42FQs8BdmtxQHIK7aLqlxE4QrolMlH4" width="100"/>
