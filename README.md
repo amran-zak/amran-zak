@@ -36,21 +36,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ---
-### :fire: My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amran-zak" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amran-zak" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amran-zak&show_icons=true&locale=en" alt="amran-zak" /></p>
-  
- 
- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amran-zak&theme=github" /></p>
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=amran-zak&bc=ebebeb&ic=0E8AD9" alt="amran-zak" /></p>
-
-
----
- 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -73,10 +58,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-
-
----
-
-### :writing_hand: Blog Posts :
 
 
